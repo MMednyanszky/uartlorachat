@@ -28,8 +28,7 @@ A simple CSMA-based LoRa text chat for two or more ESP32 nodes. Messages are typ
 
 Install via the Arduino Library Manager:
 
-- **U8g2** by olikraus
-
+- [**U8g2**](https://github.com/olikraus/u8g2) by olikraus
 ---
 
 ## Building & Flashing
